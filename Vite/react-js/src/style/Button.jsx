@@ -4,9 +4,9 @@ export default function Button(props) {
 	return (
 		<div>
 			<button
-				class="font-mono ml-2 text-white-400 rounded-lg text-center box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 border-resdus"
-				type="submit"
-				name={props.name}>
+				className="focus:outline-none mx-auto transition duration-150 ease-in-out hover:bg-indigo-600 bg-indigo-700 rounded text-white px-4 sm:px-8 py-2 text-xs sm:text-sm"
+				onclick="modalHandler(true)"
+			>
 				Submit
 			</button>
 		</div>
