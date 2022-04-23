@@ -5,7 +5,7 @@ import Product from './page/Product';
 import Home from './page/Home';
 import Erro404 from './mistakes/Erro404';
 
-export default function AppRoutes() {
+export default function ProjectRoutes() {
 	return (
 		<BrowserRouter>
 			<Routes>

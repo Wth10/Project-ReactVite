@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Project from './Project';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
 	<React.StrictMode>
-		<App />
+		<Project />
 	</React.StrictMode>
 );
