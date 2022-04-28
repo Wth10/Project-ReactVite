@@ -125,7 +125,7 @@ const Footer = () => {
 					<label className="text-xl font-medium leading-5 text-gray-800">
 						Get updates
 					</label>
-					<div className="bg-slate-300 cursor-pointer flex items-center justify-between border border-gray-800 mt-4">
+					<div className="bg-slate-100 cursor-pointer flex items-center justify-between border border-gray-800 mt-4">
 						<input
 							type="text"
 							className="text-base leading-4 p-4 w-full focus:outline-none text-gray-800 placeholder-gray-800"
@@ -134,8 +134,8 @@ const Footer = () => {
 
 						<button>
 							<img
-								className="w-9 h-8 rounded-md"
-								src="https://cdn-icons.flaticon.com/png/512/2989/premium/2989993.png?token=exp=1650652592~hmac=156c50ef65abed678ef0f541c5f56503"
+								className="w-11 h-9 rounded-md"
+								src="https://cdn-icons.flaticon.com/png/512/2990/premium/2990015.png?token=exp=1650978982~hmac=9e8a7739963b2f4b02ca795dfed5e333"
 							/>
 						</button>
 					</div>
@@ -153,8 +153,8 @@ const Footer = () => {
 					/>
 					<button>
 						<img
-							className="w-9 h-8 rounded-md"
-							src="https://cdn-icons.flaticon.com/png/512/2989/premium/2989993.png?token=exp=1650652592~hmac=156c50ef65abed678ef0f541c5f56503"
+							className="w-11 h-9 rounded-md"
+							src="https://cdn-icons.flaticon.com/png/512/2990/premium/2990015.png?token=exp=1650978982~hmac=9e8a7739963b2f4b02ca795dfed5e333"
 						/>
 					</button>
 				</div>
