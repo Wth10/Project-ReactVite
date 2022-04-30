@@ -1,6 +1,6 @@
 {
 	"name": "react-js",
-	"homepage": "Project-ReactVite",
+	"homepage": "/",
 	"private": true,
 	"engines": {
 		"node": ">16.0.0",
