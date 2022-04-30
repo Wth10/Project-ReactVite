@@ -21,4 +21,4 @@ npm run build
   uses: peaceiris/actions-web-pages@v3
   with:
   github_token: ${{ secrets.GITHUB_TOKEN }}
-  publish_dir: ./build
+  publish_dir: .build
