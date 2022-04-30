@@ -2,7 +2,11 @@
 	"name": "react-js",
 	"homepage": "Project-ReactVite",
 	"private": true,
-	"version": "1.0",
+	"engines": {
+		"node": ">16.0.0",
+		"npm": ">8.0.0"
+	},
+	"version": "1.0.0",
 	"author": {
 		"name": "Wth - Weuberth",
 		"url": "https://github.com/Wth10"
