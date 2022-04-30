@@ -17,8 +17,8 @@ steps:
   run: |
 npm ci
 npm run build
-- name: Deploy to gh-pages
-  uses: peaceiris/actions-gh-pages@v3
+- name: Deploy to web-pages
+  uses: peaceiris/actions-web-pages@v3
   with:
   github_token: ${{ secrets.GITHUB_TOKEN }}
   publish_dir: ./build
